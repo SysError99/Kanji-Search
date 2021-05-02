@@ -1,16 +1,15 @@
-# kanji_search
+# Kanji-Search
 
-A Kanji Search application.
+A Kanji Search application using Flutter, powered by KanjiAPI.dev
 
-## Getting Started
+## Features
+ - Searching Kanji by grades.
+ - Searching Kanji characters with Hiragana, Katakana, and Romaji.
+ - Searching for Kanji character detalis.
+ - Searching Words related to specific Kanji characters.
 
-This project is a starting point for a Flutter application.
+ ## Contributions
+ There is no contrubution guidelines for now, please consider reading contribution guidelines provided by [dart.dev](https://dart.dev/guides/language/effective-dart/style)
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+ ## Acknowledgements
+ - [KanjiAPI.dev](https://kanjiapi.dev/)
